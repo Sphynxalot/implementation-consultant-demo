@@ -1,4 +1,4 @@
-# implementation-consultant-demo
+# Implementation Consultant Demo
 
 This project simulates the type of tasks an Implementation Consultant might perform during a post-deployment audit for a client's quality management system. Built in MySQL Workbench, it covers schema design, realistic sample data, and practical SQL audit queries.
 
@@ -60,6 +60,6 @@ This project demonstrates how data insights can support deployment success, high
 
 ## 📬 Contact
 
-*Prepared by: [Kyron Holbrook]*  
-Email: [holbrookkyron@gmail.com]  
+*Prepared by: Kyron Holbrook*  
+Email: holbrookkyron@gmail.com  
 Date: April 2025  
