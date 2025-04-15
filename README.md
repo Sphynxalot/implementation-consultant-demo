@@ -61,5 +61,5 @@ This project demonstrates how data insights can support deployment success, high
 ## 📬 Contact
 
 *Prepared by: [Kyron Holbrook]*  
-Email: [holbrookyron@gmail.com]  
+Email: [holbrookkyron@gmail.com]  
 Date: April 2025  
